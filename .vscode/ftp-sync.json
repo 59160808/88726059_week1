@@ -1,0 +1,27 @@
+{
+    "remotePath": "https://github.com/59160808/88726059_week1.git",
+    "host": "angsila.cs.buu.ac.th",
+    "username": "59160808",
+    "password": "weeris02",
+    "port": 22,
+    "secure": false,
+    "protocol": "sftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ""
+        ],
+        "path": "https://github.com/59160808/88726059_week1.git"
+    }
+}
